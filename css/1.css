@@ -1,0 +1,78 @@
+@charset "UTF-8";
+p {
+  width: 260px; }
+
+div:before {
+  background: rgba(3, 4, 5, 0.8);
+  color: #feffff; }
+
+div:before {
+  content: "xiaohuangyagaga";
+  font-family: chiller; }
+
+div {
+  width: 90px; }
+
+.my1, .my2 {
+  color: #111;
+  background: #000; }
+
+.my2 {
+  border-color: #222; }
+
+p {
+  background: -webkit-linear-gradient(top, #212, #000);
+  background: -o-linear-gradient(top, #212, #000);
+  background: -ms-linear-gradient(top, #212, #000);
+  background: -moz-linear-gradient(top, #212, #000); }
+
+div {
+  background: -webkit-linear-gradient(bottom, #f00, #00f);
+  background: -o-linear-gradient(bottom, #f00, #00f);
+  background: -ms-linear-gradient(bottom, #f00, #00f);
+  background: -moz-linear-gradient(bottom, #f00, #00f); }
+
+p {
+  background: #000;
+  border: 1px solid #f00;
+  border-radius: 50%; }
+
+div {
+  width: 200px;
+  border: 1px solid #f00;
+  border-radius: 50%; }
+
+.my-color {
+  color: #f00; }
+
+div {
+  color: #f00; }
+
+#content {
+  border: 1px  solid #f00; }
+  #content p {
+    background: #00f; }
+    #content p a {
+      text-decoration: none; }
+    #content p b {
+      text-style: normal; }
+  #content div {
+    background: #00f; }
+    #content div ul {
+      list-style: none; }
+      #content div ul li {
+        border: 0; }
+        #content div ul li a {
+          text-decoration: none; }
+        #content div ul li img {
+          outline: 0; }
+
+div {
+  color: #f10215;
+  width: 100%;
+  border: 1px solid #f10215;
+  border-top: 2px solid #f10215;
+  background: #069; }
+
+p:before {
+  content: "全国统计笑话"; }
